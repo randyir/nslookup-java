@@ -1,7 +1,7 @@
 import java.net.*;
 import java.util.Scanner;
 
-public class HosttoIPAddress {
+public class GetIPaddress {
     public static void main(String[] args) {
         String host;
         Scanner input = new Scanner(System.in);
